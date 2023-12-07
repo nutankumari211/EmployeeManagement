@@ -1,3 +1,6 @@
+# Flowchart 
+![Screenshot (506)](https://github.com/nutankumari211/EmployeeManagement/assets/31533479/6a12d6f5-2641-4fd5-afc6-2883372c40c0)
+
 # User Management System
 # Overview
 This project implements a simple User Management System using a Spring Boot backend with MongoDB as the database and a React frontend.
@@ -14,6 +17,7 @@ MongoDB
 
 Frontend:
 React
+
 
 Prerequisites
 Java Development Kit (JDK)
